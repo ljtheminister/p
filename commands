@@ -1,0 +1,6 @@
+ssh -i protestify_key.pem ec2-user@ec2-54-224-2-139.compute-1.amazonaws.com
+
+python crawler.py
+
+
+
