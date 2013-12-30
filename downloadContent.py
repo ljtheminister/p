@@ -32,3 +32,8 @@ for tweet in collection.find():
 
 pickle.dump(list_urls, open('url_list.p', 'wb'))
 pickle.dump(bad_tweets, open('bad_tweetes.p', 'wb'))
+
+
+
+## NEED TO ADD FUNCTIONALITY FOR VINE VIDEOS
+## AND THE VIDEOS DOWNLOAD WEIRDLY
